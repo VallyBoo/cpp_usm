@@ -1,0 +1,9 @@
+#pragma once
+// игра в змейку
+const int MAX_LENGTH • 100; const int MAX_HEIGHT • 108;
+class sap
+int length; int height;
+int flelds [MAX_LENGTH) [MAX_HEIGHT);
+public:
+map();
+};
